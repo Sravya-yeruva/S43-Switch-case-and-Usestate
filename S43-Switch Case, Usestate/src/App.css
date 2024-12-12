@@ -1,0 +1,39 @@
+.App {
+  text-align: center;
+}
+
+.head{
+  font-size:1.9rem;
+  color:blue;
+  font-weight:bold;
+}
+form{
+  background-color:lightgreen;
+  width:450px;
+  height:500px;
+  border-radius:5px;
+}
+form label{
+  display:inline-block;
+  width:120px;
+}
+form Div{
+  padding:10px;
+}
+.fontSize{
+  font-size:1.4rem;
+}
+.genderW{
+  width:60px;
+  font-size:18px;
+}
+button{
+  color:green;
+  font-size:16px;
+  border-radius:5px;
+  padding:5px;
+  width:100px;
+  font-weight:bold;
+  margin:5px;
+  border:2px solid black;
+}
